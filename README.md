@@ -2,17 +2,8 @@
 ![Masterhead](https://res.cloudinary.com/practicaldev/image/fetch/s--xVCufn18--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5nnkrcc3kixypm642opg.gif)
 <h1 align="center"> TEMP CONVERETER USING - C++</h1>
 <h3 align="center">A passionate Developer & Graphic Designer</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajithkavishan&label=Profile%20views&color=0e75b6&style=flat" alt="sajithkavishan" /> </p>
-
-<p align="left"> <a href="https://twitter.com/kavishansajith" target="blank"><img src="https://img.shields.io/twitter/follow/kavishansajith?logo=twitter&style=for-the-badge" alt="kavishansajith" /></a> </p>
-
-- ?? I’m currently learning **C++, C**
-
-- ?? Ask me about **Character design, Adobe Illustrator, Krita, Animation**
-
-- ?? How to reach me **sajithkavishan1111@gmail.com**
+- This is a coding of Temparature converter using "if" function in C++ language.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
